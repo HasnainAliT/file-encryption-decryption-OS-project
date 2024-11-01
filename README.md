@@ -53,8 +53,5 @@ To decrypt a file, use the following command:
 bash
 Copy code
 ./file-encrypt-decrypt -i output.txt -o test1.txt
-<input_file>: Path to the encrypted file you want to decrypt.
-<output_file>: Name of the output decrypted file.
-<encryption_key>: The same key used for encryption.
-Example:
+
 
